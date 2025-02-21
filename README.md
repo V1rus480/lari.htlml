@@ -1,2 +1,0 @@
-# lari.htlml
-Lari.html
